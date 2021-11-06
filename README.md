@@ -13,4 +13,4 @@ strk-nd
 Gamer🎮, Music lover🎵,
 
 Languages and Tools:
-bash c droneci cplusplus firebase gcp git heroku java linux
+https://www.linux.org/ https://heroku.com/ https://git-scm.com/ https://cloud.google.com/ https://www.w3schools.com/cpp/ https://www.cprogramming.com/ https://www.gnu.org/software/bash/
