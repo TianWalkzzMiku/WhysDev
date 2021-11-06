@@ -1,8 +1,8 @@
 ### 🐈 Hey there! I am using GitHub.
 
 <a> <img src="https://komarev.com/ghpvc/?username=TianWalkzzMiku&style=flat-square" alt="TianWalkzzMiku" /> </a>
-[![Years Badge](https://badges.pufler.dev/years/okta-10)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/okta-10)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/TianWalkzzMiku)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/TianWalkzzMiku)](https://badges.pufler.dev)
 
 ##
 
