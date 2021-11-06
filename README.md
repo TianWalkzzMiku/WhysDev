@@ -7,4 +7,4 @@
 ##
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TianWalkzzMiku&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=TianWalkzzMiku&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=WhysDev&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
