@@ -1,16 +1,19 @@
-Hi 👋, I'm Septian Riyadi
-A passionate frontend developer from Indonesian
-strk-nd
+### 🐈 Hey there! I am using GitHub.
 
-🔭 I’m currently working on Android development & Linux kernel Development
+<a> <img src="https://komarev.com/ghpvc/?username=TianWalkzzMiku&style=flat-square" alt="TianWalkzzMiku" /> </a>
+[![Years Badge](https://badges.pufler.dev/years/okta-10)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/okta-10)](https://badges.pufler.dev)
 
-🌱 I’m currently learning C++ And C Development
+### Join us on Telegram 😀👇
+<a href="https://t.me/SRChannelUpdates">
+	<img alt="SuperSRK" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=Mystic%20Kernel%20Channel&labelColor=273849&suffix=+Subscribers&color=00D000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DMysticKernel&longCache=true"/>
+</a>
 
-👯 I’m looking to collaborate on Android development & Linux kernel Development
+<a href="https://t.me/SRSRKSupport">
+	<img alt="MysticKernelDiscussion" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=Mystic%20Kernel%20Discussion&labelColor=273849&suffix=+Members&color=00D000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DMysticKernelDiscussion&longCache=true"/>
+</a>
 
-🤝 I’m looking for help with Linux kernel Development
+##
 
-Gamer🎮, Music lover🎵,
-
-Languages and Tools:
-https://www.linux.org/ https://heroku.com/ https://git-scm.com/ https://cloud.google.com/ https://www.w3schools.com/cpp/ https://www.cprogramming.com/ https://www.gnu.org/software/bash/
+![Github Stats](https://github-readme-stats.vercel.app/api?username=okta-10&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=okta-10&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
